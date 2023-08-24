@@ -1,0 +1,155 @@
+.container {
+  background-color: white;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  color: #cd264f;
+}
+
+.card-1 {
+  width: 646px;
+  height: 200x;
+  top: -200px;
+  left: -213px;
+  align-items: center;
+  border: 1px solid #c8c8c8;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px;
+  margin: 20px;
+}
+
+.card-2 {
+  width: 646px;
+  height: 200x;
+  top: -200px;
+  left: -213px;
+  align-items: center;
+  border: 1px solid #c8c8c8;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px;
+  margin: 20px;
+  background-color: #fff4f7;
+}
+
+.inner-card-1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 500px;
+}
+.pair {
+  font-family: Inter;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: left;
+  font-family: 'Robot';
+}
+
+.discount {
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 17px;
+  letter-spacing: 0em;
+  text-align: left;
+  font-family: Metropolis;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.promo-code {
+  font-style: 'Roboto';
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 17px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #000000;
+  width: 79px;
+  height: 17px;
+  top: 303.0804748535156px;
+  left: -8.77199935913086px;
+}
+
+.pair-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 500px;
+}
+
+.pair-color {
+  color: #cd264f;
+  font-family: Inter;
+  font-size: 15px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  line-height: 5px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.free {
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  line-height: 17px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #cd264f;
+}
+
+.button {
+  background-color: #cd264f;
+  width: 640px;
+  border-width: 0px;
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  line-height: 17px;
+  letter-spacing: 0em;
+  padding: 15px;
+  margin-top: 20px;
+  color: #ffff;
+  cursor: pointer;
+}
+
+.powered {
+  margin-left: 540px;
+  font-size: 10px;
+  font-style: italic;
+  color: black;
+}
+
+.pair-underline {
+  text-decoration: line-through;
+  font-style: italic;
+  font-size: 10px;
+  margin-left: 40px;
+  margin-bottom: 13px;
+}
+
+.card-2-inner {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
